@@ -1,0 +1,40 @@
+﻿1
+00:00:01,400 --> 00:00:06,400
+TheMarkusGuy
+
+2
+00:00:06,150 --> 00:00:10,150
+Computer tips
+
+3
+00:00:10,420 --> 00:00:15,420
+Booting into safe mode with an Android device
+
+4
+00:00:17,380 --> 00:00:26,380
+1. Turn off the device - To do this, hold down the power button for 4 seconds and tap "Power off"
+
+5
+00:00:28,320 --> 00:00:37,320
+2. Turn on the device - Wait until you see the logo of your device
+
+6
+00:00:40,900 --> 00:00:49,900
+3. Hold down the volume down button - Keep holding down the button until the device finishes booting
+
+7
+00:00:55,700 --> 00:01:04,700
+4. Making sure that you're in safe mode - At the bottom left corner, you should see a label "Safe mode" (in your language)
+
+8
+00:01:09,270 --> 00:01:40,270
+Normal mode v.s. safe mode - In safe mode you can only launch the built in apps. In this mode you can safely transfer files to your computer in case it doesn't boot or is infected with malware. In this mode you can also test if your device is infected with a root-kit. In case the malware activates, even in safe mode, it will also activate after you factory reset your device.
+
+9
+00:01:42,150 --> 00:01:52,150
+Watch more:
+
+10
+00:01:52,140 --> 00:02:00,140
+Subscribe and check out other channels
+

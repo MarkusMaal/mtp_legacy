@@ -1,0 +1,20 @@
+﻿1
+00:00:01,810 --> 00:00:04,880
+Log OS beetaversiooniga jamamine
+
+2
+00:03:05,260 --> 00:03:12,370
+(vanemale versioonile alandamine)
+
+3
+00:07:14,050 --> 00:07:20,250
+Nüüd ma hävitan logo :D
+
+4
+00:08:29,020 --> 00:08:34,960
+Nüüd ma alandan täiesti erinevatele pakkfailidele!
+
+5
+00:09:12,600 --> 00:09:14,500
+Minimeerimisnupu rike!?????
+

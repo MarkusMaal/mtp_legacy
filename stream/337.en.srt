@@ -1,0 +1,120 @@
+﻿1
+00:00:01,320 --> 00:00:02,320
+TheMarkusGuy
+
+2
+00:00:03,000 --> 00:00:11,000
+Markus computer entertainment
+
+3
+00:00:13,390 --> 00:00:15,390
+MarkuStation 2 (MTM)
+
+4
+00:00:15,380 --> 00:00:22,380
+TrackMania - Frozen tracks
+
+5
+00:00:22,370 --> 00:00:29,370
+Track #1
+SNOWin
+
+6
+00:03:07,260 --> 00:03:13,260
+Snow city
+
+7
+00:04:19,410 --> 00:04:26,410
+Track #3
+Put on the boots
+
+8
+00:04:55,460 --> 00:05:02,460
+Track #4
+Frozen paradise
+
+9
+00:06:14,140 --> 00:06:20,140
+Track #5
+Frozen beach
+
+10
+00:07:10,530 --> 00:07:17,530
+Track #6
+Coast in Norway
+
+11
+00:08:44,370 --> 00:08:50,370
+Track #7
+ForestMania
+
+12
+00:10:14,190 --> 00:10:20,190
+Track #8
+"The trap"
+
+13
+00:11:00,000 --> 00:11:06,000
+Track #9
+Snow stunts and jumping
+
+14
+00:11:29,600 --> 00:11:35,600
+Track #10
+Snow track
+
+15
+00:12:05,440 --> 00:12:12,440
+Track #11
+Polaris
+
+16
+00:12:52,420 --> 00:12:59,420
+Track #12
+Black track (Title of the world 10)
+
+17
+00:14:39,450 --> 00:14:45,450
+The end
+
+18
+00:14:45,480 --> 00:14:52,480
+Edited by:
+Markus Maal
+
+19
+00:14:52,170 --> 00:14:59,170
+Music:
+
+20
+00:14:59,400 --> 00:15:05,400
+Tracks by:
+Markus Maal
+
+21
+00:15:05,370 --> 00:15:12,370
+Software used:
+TrackMania United Forever (Tracks, Recording)
+Sony Vegas Pro 11.0 (Editing)
+X-Vid MPEG4 codec (Encoding format)
+paint.NET (Image manipulation)
+
+22
+00:15:12,160 --> 00:15:18,160
+Created for:
+TheMarkusGuy
+
+(c) 2019 Markuse videod productions
+
+23
+00:15:19,580 --> 00:15:28,580
+Watch more:
+
+24
+00:15:29,600 --> 00:15:35,600
+More channels
+
+25
+00:15:35,520 --> 00:15:39,520
+Subtitles by: Markus Maal (MarkusTegelane/TheMarkusGuy)
+

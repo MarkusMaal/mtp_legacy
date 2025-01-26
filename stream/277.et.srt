@@ -1,0 +1,149 @@
+﻿1
+00:00:07,000 --> 00:00:11,000
+Movement Batch 3.0 - Väljalaske versioon - Saate nüüd alla laadida!
+
+2
+00:00:12,160 --> 00:00:29,160
+Uus tervitusekraan - Lisaks nime sisaldamisele, saate läbida ka õpetuse!
+
+3
+00:00:29,480 --> 00:00:40,480
+Õpetused - See radade pakk õpetab Movement Batch'i põhitõdesid. See esimene tase õpetab liikumist.
+
+4
+00:00:42,170 --> 00:00:52,170
+Teine tase teeb sama asja, aga seekord peate pöörama
+
+5
+00:01:04,800 --> 00:01:14,800
+Kolmas õpetus õpetab tulistamismehhaanikat. Eesmärgiks on maha lasta kõik kaktused (jumal teab mis põhjusel)
+
+6
+00:01:27,310 --> 00:01:37,310
+Neljas õpetus õpetab objekte lükkama. Eesmärgiks on liigutada kõik kastid hallile alale ja seejärel minna finišisse.
+
+7
+00:01:48,540 --> 00:01:53,540
+Neljas õpetus õpetab, mis on vedelplokid.
+
+8
+00:01:58,540 --> 00:02:08,540
+Kuues õpetus näitab, mis on kontrollpunktid. Teie eesmärgiks on läbida kõik kontrollpunktid ja seejärel rada lõpetada.
+
+9
+00:02:17,310 --> 00:02:27,310
+Viimane õpetus näitab, kuidas kasutada gravitatsiooni. Platvorme kasutades peate te finišisse jõudma.
+
+10
+00:02:56,100 --> 00:03:06,100
+Mänguväljaku eelvaade - See tööriist võimaldab teil vaadata ükskõik millist väljakut, isegi vanu Movement Batch väljakuid.
+
+11
+00:03:09,570 --> 00:03:19,570
+Testi jõudlust - Selles Movement Batch versioonis on parem jõudluskatsetamise tööriist. Eelmistes versioonides liigutati lihtsalt tegelast ringi, aga see isegi näitab testi aega.
+
+12
+00:03:50,800 --> 00:04:01,800
+Juhusliku väljaku generaator - Töötab nagu esimeses eelvaates näidatud versioon
+
+13
+00:04:47,200 --> 00:04:50,200
+Uus hüüdnime (muutmise) ekraan - Ei midagi erilist, küljendus on veidi erinev (eelmistest versioonidest)
+
+14
+00:04:56,500 --> 00:05:06,500
+Uus tegelase valimise ekraan - Te saate nüüd valida ühe sisse ehitatud tegelastest või kasutada kohandatud tegelast. Te saate nüüd ka muuta tegelase ja kuuli värvi (mõjutab ainult värvilisi väljakuid)
+
+15
+00:05:22,110 --> 00:05:25,110
+Sama vastase tegelasega
+
+16
+00:05:40,390 --> 00:05:45,390
+Mõnede valikute jaoks on olemas ka liugurid
+
+17
+00:05:59,350 --> 00:06:04,350
+Erakorralise Taaste Süsteem (ETS/ERS) - Võimaldab teil hõlpsasti krahhist taastuda
+
+18
+00:06:09,200 --> 00:06:17,200
+Uus juhtnuppude seadistamise ekraan - Sarnane (eelmisele versioonile), aga nüüd näitab ka vaike(juht)nuppe
+
+19
+00:06:32,400 --> 00:06:40,400
+Laiendatud mänguala - Kõik väljakud kasutavad nüüd 40x10 formaati vana 20x5 asemel. See väljak kasutab tervet saadavalolevat mänguala.
+
+20
+00:06:56,590 --> 00:07:05,590
+Tagasiühilduv - Hoolimata uuest väljakusüsteemist, Movement Batch 3.0-s saab mängida ka vanemaid väljakuid (kuid neid on vaja kõigepealt teisendada, mida see mäng teeb automaatselt)
+
+21
+00:07:09,130 --> 00:07:17,130
+"Kärbi pärandväljakuid" - Teisendatud pärandväljakutelt saab kärpida tekkinud musta äärist, kuid kui esineb probleeme, saate te keelata selle funktsiooni valikute menüüst.
+
+22
+00:07:43,280 --> 00:07:52,280
+Värvilised väljakud
+Nagu olete näinud, Movement Batch toetab nüüd värvilisi väljakuid. See siin üritab imiteerida mu vana kanali logo.
+
+23
+00:07:54,280 --> 00:08:03,280
+Pange tähele, et meie tegelase ja kuuli värviseadistused on nüüd rakendatud
+
+24
+00:08:20,190 --> 00:08:28,190
+Mitmikmäng - Töötab nii värvi- kui ka ilma värvita režiimides!
+
+25
+00:08:47,230 --> 00:08:55,230
+Juhuslik väljak - Valib juhusliku väljaku "Maps" kaustast
+
+26
+00:09:07,700 --> 00:09:15,700
+Standardväljakud - See väljakupakk sisaldab nii kõiki eelmisi standardväljakuid kui ka kõiki uusi standardväljakuid.
+
+27
+00:09:55,540 --> 00:10:04,540
+Mängijavaba režiim - Nüüd täiesti funktsionaalne, võimaldab laadida väljakuid ja skripte ilma igasuguse sisendita.
+
+28
+00:10:48,220 --> 00:10:57,220
+Mängijavaba režiim - Töötab ka värviliste väljakutega
+
+29
+00:11:03,320 --> 00:11:12,320
+Nagu näete, see väljak kasutab skripti lisamise funktsionaalsust väljakuredigeerijas
+
+30
+00:11:24,330 --> 00:11:33,330
+Loome uue väljaku!
+
+31
+00:17:13,200 --> 00:17:22,200
+Loome uue väljakupaki!
+
+32
+00:17:29,800 --> 00:17:38,800
+Parem kasutajaliides - Samuti, väljakud nüüd reastuvad ümber, kui kustutate ühe keskeloleva väljaku (väljakupakist)
+
+33
+00:18:59,370 --> 00:19:08,370
+See väljak on esimese eelvaate ülekandest - Ma ei mänginud seda (otse)ülekandes, seega näitan ma teile nüüd kuidas see toimib.
+
+34
+00:19:28,500 --> 00:19:34,500
+Väljakuteisendaja - Sellega teisendatakse vanad väljakud uude vormingusse
+
+35
+00:19:43,220 --> 00:19:53,220
+Allalaadimise link on kirjelduses!
+
+36
+00:19:53,480 --> 00:20:03,480
+Vaata veel:
+
+37
+00:20:03,460 --> 00:20:12,460
+Telli ja vaata ka teisi kanaleid
+

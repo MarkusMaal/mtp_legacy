@@ -1,0 +1,312 @@
+1
+00:00:00,000 --> 00:00:10,667
+Markus computer entertainment
+
+2
+00:00:51,544 --> 00:01:00,615
+Hello people! Today I am showcasing a new version of Windows that you have never seen before!
+
+3
+00:01:00,948 --> 00:01:09,000
+I got exclusive access to the beta version for the beta version of Windows 13!
+
+4
+00:01:10,257 --> 00:01:12,257
+And we're on the desktop!
+
+5
+00:01:13,443 --> 00:01:15,443
+On a brand new desktop!
+
+6
+00:01:17,105 --> 00:01:19,105
+With a brand new background image!
+
+7
+00:01:22,982 --> 00:01:32,967
+As you can see, the new wallpaper has a very minimalistic design.
+
+8
+00:01:33,847 --> 00:01:35,847
+And also a new taskbar
+
+9
+00:01:36,195 --> 00:01:40,616
+New, as you can see. There's still access to the start menu
+
+10
+00:01:48,001 --> 00:01:52,000
+Settings icon, application store
+
+11
+00:01:52,635 --> 00:01:54,635
+File manager
+
+12
+00:01:55,176 --> 00:01:57,176
+VLC
+
+13
+00:01:59,271 --> 00:02:03,567
+Terminal, Pinta...
+
+14
+00:02:03,567 --> 00:02:09,554
+I mean Paint, that's absolutely just paint and not some other program!
+
+15
+00:02:09,925 --> 00:02:13,900
+notepad, and everything else
+
+16
+00:02:14,446 --> 00:02:20,434
+And a brand new Microsoft's office suite!
+
+17
+00:02:20,435 --> 00:02:25,746
+Such as Michaelsoft Letter, Michaelsoft Isuc, and Michaelsoft Weakpoint!
+
+18
+00:02:26,384 --> 00:02:30,367
+I can't believe it! It's a brand new and very unique version of Windows!
+
+19
+00:02:30,854 --> 00:02:37,834
+Something completely brand new, something nobody has seen before!
+
+20
+00:02:37,834 --> 00:02:39,834
+Lets start with the file manager!
+
+21
+00:02:41,047 --> 00:02:49,034
+As you can see, there are still rounded corners.
+
+22
+00:02:49,035 --> 00:02:58,073
+But as a brand new feature, there's now an option to split the current folder you're on!
+
+23
+00:02:58,073 --> 00:03:03,348
+You may be wondering, why is that useful? Let me show you!
+
+24
+00:03:04,358 --> 00:03:08,672
+First of all, here's one folder...
+
+25
+00:03:09,001 --> 00:03:13,781
+Let me insert a storage medium that actually contains some files.
+
+26
+00:03:17,139 --> 00:03:25,318
+And every time you insert a new USB device, Windows asks whether or not you want to connect it! Unbelieveably awesome!
+
+27
+00:03:25,319 --> 00:03:35,300
+So, if you have a faulty drive, it doesn't get too much stress reading data unless you say to insert it.
+
+28
+00:03:36,847 --> 00:03:39,000
+You can probably also run your .EXE file....
+
+29
+00:03:39,261 --> 00:03:41,261
+Dialog box: What would you like to do with this file?
+
+30
+00:03:41,262 --> 00:03:49,461
+We can go to a folder, such as music...
+
+31
+00:03:52,448 --> 00:03:54,448
+and then we CANN
+
+32
+00:03:55,043 --> 00:04:05,034
+And as you can see, we support... Windows supports multiple tabs in the file manager, which means...
+
+33
+00:04:06,915 --> 00:04:15,457
+that browsing your files is... You don't have to open 10 windows and search for which one you want to use.
+
+34
+00:04:16,567 --> 00:04:22,910
+So, that was My Computer. One more thing... If we change the path here...
+
+35
+00:04:23,377 --> 00:04:29,827
+Then you can see that Windows now uses a brand new file path system!
+
+36
+00:04:30,132 --> 00:04:36,100
+There is no C:\ drive anymore! Everything starts from /!
+
+37
+00:04:37,015 --> 00:04:43,000
+For example, our user folder is /home/markus
+
+38
+00:04:49,438 --> 00:04:54,393
+So, this is our C:\ folder, a.k.a. the / folder
+
+39
+00:04:58,704 --> 00:05:00,704
+In case you think I'm joking. (shows that path is indeed "/")
+
+40
+00:05:00,704 --> 00:05:07,208
+You may be asking, where's my D: drive, where's my E: drive, where's my F: drive... well
+
+41
+00:05:09,372 --> 00:05:12,903
+The answer is that they are now located at...
+
+42
+00:05:14,871 --> 00:05:16,871
+I'm pretty sure it was the /media folder...
+
+43
+00:05:18,522 --> 00:05:22,500
+Yup, here's my thumbdrive. We can explore it.
+
+44
+00:05:29,172 --> 00:05:33,167
+This is a brand new photos app.
+
+45
+00:05:36,229 --> 00:05:42,200
+It starts up really fast and there is no other unneeded carp!
+
+46
+00:05:42,591 --> 00:05:52,668
+This is Michaelsoft Letter! Microsoft decided to rename the programs on their office suite.
+
+47
+00:05:55,216 --> 00:06:01,559
+It's really similar in terms of feature set to Microsoft Word (as it should be)
+
+48
+00:06:02,182 --> 00:06:06,443
+Not much has changed, other than the design and layout of things.
+
+49
+00:06:06,729 --> 00:06:08,729
+This is Michaelsoft Isuc
+
+50
+00:06:10,512 --> 00:06:14,500
+And this is Michaelsoft Weakpoint!
+
+51
+00:06:14,500 --> 00:06:23,112
+Which you can use to make amazing presentations, where your weak points never get heard!
+
+52
+00:06:23,362 --> 00:06:25,362
+Maybe you saw another new thing.
+
+53
+00:06:27,001 --> 00:06:29,001
+If we open updates
+
+54
+00:06:29,174 --> 00:06:42,091
+Everyone knows that Windows updates are really annoying! They tend to install themselves automatically without your permission...
+
+55
+00:06:42,930 --> 00:06:47,440
+But not anymore! Because Windows 13 eliminates this problem completely!
+
+56
+00:06:48,001 --> 00:06:52,671
+Wait, is it going to install Windows 14 here?
+
+57
+00:06:53,792 --> 00:06:55,792
+Yeah, absolutely...
+
+58
+00:06:56,131 --> 00:07:00,677
+It's probably Windows 13.1 or something, but I don't care right now!
+
+59
+00:07:01,154 --> 00:07:07,134
+And as you saw, it was really easy to postpone updates, no need to install them right away when you don't want to!
+
+60
+00:07:12,337 --> 00:07:16,867
+The settings app has also been updated, so...
+
+61
+00:07:17,451 --> 00:07:24,387
+It looks a bit like Windows 11 settings app, but it isn't that...
+
+62
+00:07:26,018 --> 00:07:27,680
+What is a KDE neon?
+
+63
+00:07:27,681 --> 00:07:29,681
+This is the new paint app!
+
+64
+00:07:31,459 --> 00:07:34,434
+As you can see, it's still possible to dra...
+
+65
+00:07:37,135 --> 00:07:39,135
+You can still draw!
+
+66
+00:07:41,769 --> 00:07:45,767
+But in addition to drawing stuff... [that sound]
+
+67
+00:07:47,079 --> 00:07:49,542
+There's layers, so that we can add new layers!
+
+68
+00:07:49,543 --> 00:07:54,195
+That is one of the things people have always asked Microsoft to do, but they've never actually done it!
+
+69
+00:07:54,835 --> 00:07:58,834
+There's layers in Paint now! That's unbelievable!
+
+70
+00:07:58,835 --> 00:08:02,461
+Like in every other fuggin picture editing program...
+
+71
+00:08:02,461 --> 00:08:09,203
+Next up... I accidentally opened VLC media player! YAY!
+
+72
+00:08:09,560 --> 00:08:17,534
+Let me tell you, this isn't Lunix, okay... some smart people may point out this is just Lunix, but it isn't!
+
+73
+00:08:18,001 --> 00:08:20,001
+this is 100% Windows 13
+
+74
+00:08:20,741 --> 00:08:23,734
+Next up we open the command line, which looks totally awesome!
+
+75
+00:08:25,895 --> 00:08:27,895
+This totally isn't just Lunix...
+
+76
+00:08:29,752 --> 00:08:31,752
+I can confirm this to you...
+
+77
+00:08:39,000 --> 00:08:41,993
+This isn't Lunix, it's Linux...
+
+78
+00:08:43,371 --> 00:08:45,431
+Happy April 1st!
+

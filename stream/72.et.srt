@@ -1,0 +1,134 @@
+﻿1
+00:00:00,000 --> 00:00:05,450
+Tere! Täna ma näitan teile järjekordset pakkfaili. Aga
+
+2
+00:00:05,450 --> 00:00:09,890
+seekord on sellel TUI (tekstil põhinev kasutajaliides), mida saate kasutada
+
+3
+00:00:10,020 --> 00:00:15,460
+hiirega! Ma demonstreerin mõnda selle märkmiku funktsiooni.
+
+4
+00:00:18,460 --> 00:00:24,600
+1. Märkmete salvestsamine
+
+5
+00:00:31,240 --> 00:00:36,480
+2. Uue märkme loomine    3. Praeguse märkme kuvamine
+
+6
+00:00:37,420 --> 00:00:43,460
+4. Eksisteerivate märkmete laadimine
+
+7
+00:00:53,130 --> 00:00:55,270
+5. Programmiteabe kuvamine (dialoogide ja värgiga)
+
+8
+00:00:58,240 --> 00:01:05,910
+See pakkfail on ka seepoolest eriline, et selle teemat on võimalik kohandada!
+
+9
+00:01:07,510 --> 00:01:11,780
+6. Kohandamisvalikud
+
+10
+00:01:34,510 --> 00:01:35,440
+Näib lahe?
+
+11
+00:01:35,970 --> 00:01:40,550
+Jah, teie tekstidokumenti on võimalik lisada ka praegune kuupäev ja kellaaeg!
+
+12
+00:01:40,750 --> 00:01:47,450
+7. Kuupäeva ja kellaaja lisamine valitud reale
+
+13
+00:02:06,740 --> 00:02:10,180
+8. Ridade vahetamine
+
+14
+00:02:14,780 --> 00:02:21,420
+See märkmik on erinev, sest tervet märget pole redigeerimise ajal võimalik näha
+
+15
+00:02:22,220 --> 00:02:30,260
+Selleks, et ridadel midagi muuta, tuleb teil klõpsata rea numbril või valida "Muuda rida" redigeerimismenüüst.
+
+16
+00:02:30,330 --> 00:02:31,660
+Proovime!
+
+17
+00:02:53,850 --> 00:02:59,190
+See rida on asendatud xD
+
+18
+00:03:17,740 --> 00:03:19,240
+<-- Võimalik, et parandan selle vea hiljem.
+
+19
+00:03:20,680 --> 00:03:24,520
+Sellel pakkfaili on ka õpetus. Ma näitan seda teile!
+
+20
+00:03:26,480 --> 00:03:32,820
+9. Õpetus
+
+21
+00:04:12,030 --> 00:04:15,670
+Ups! Ma unustasin salvestada!
+
+22
+00:04:16,130 --> 00:04:19,240
+Ärge kunagi salvestamist unustage!
+
+23
+00:04:20,310 --> 00:04:25,040
+Kogeja: Markus Maal
+
+24
+00:04:26,750 --> 00:04:28,380
+<-- Tundub, et ma ei näinud seda teksti
+
+25
+00:05:02,550 --> 00:05:07,550
+Ja see ongi kõik. Kui soovite seda katsetada, palun vaadake allolevat kirjeldust.
+
+26
+00:05:07,550 --> 00:05:13,930
+10. Mõned lõpusõnad ja sammud, kuidas see pakkfail teie arvutis tööle saada
+Ja see ongi kõik. Kui soovite seda katsetada, palun vaadake allolevat kirjeldust.
+
+27
+00:05:13,930 --> 00:05:26,440
+Ja see ongi kõik. Kui soovite seda katsetada, palun vaadake allolevat kirjeldust.
+
+28
+00:05:28,240 --> 00:05:35,580
+Lisateave pakkfaili kohta:
+- Toetab kuni 60 rida 6-l leheküljel.
+- Ei toeta veel tavalisi tekstifaile
+- Te peate mõnikord värvi kaks korda vajutama, et seda rakendada
+
+29
+00:05:37,780 --> 00:06:07,310
+Pärast .zip faili alla laadimist saate selle eraldada, kuhu soovite. Eraldage kindlasti ka bg.exe, sest see on vajalik värvide ja hiire toetamiseks.
+
+30
+00:06:07,750 --> 00:06:25,130
+Kas teil on pakkfaili ideid? Jätke need alla kommentaaridesse.
+
+31
+00:06:28,500 --> 00:06:32,770
+Sessiooni lõpetamine...
+
+32
+00:06:48,250 --> 00:06:52,160
+Aitäh, et vaatasite!
+Video autor: Markus Maal
+Muusika: Drifting (audionautix.com)
+

@@ -1,0 +1,336 @@
+﻿1
+00:00:00,300 --> 00:00:05,300
+Tere kõigile! See video on pakkfaili mängust, mille kallal olen ma töötanud.
+
+2
+00:00:05,500 --> 00:00:07,500
+Selle nimi on "Jump batch". See on lõpmatu liikumismäng.
+
+3
+00:00:07,210 --> 00:00:11,210
+Eesmärk on jõuda nii kaugele kui võimalik takistusi vältides.
+
+4
+00:00:11,900 --> 00:00:12,900
+Vaatame, mis see pakkfail endast kujutab!
+
+5
+00:00:29,200 --> 00:00:32,200
+Selline on liides, kui käivitate mängu.
+
+6
+00:00:33,000 --> 00:00:55,000
+See on "uskumatu" menüüsüsteem. Lihtsalt klõpsake menüü üksusel ja see aktiveeritakse!
+
+7
+00:00:55,130 --> 00:00:57,130
+Alustame lihtsa üksikmänguga.
+
+8
+00:01:02,200 --> 00:01:04,200
+Võimalik on valida ka raskusaste.
+
+9
+00:01:04,290 --> 00:01:06,290
+Kõrgem raskusaste tähendab rohkem takistusi.
+
+10
+00:01:42,250 --> 00:01:46,250
+Te kaotasite!
+
+11
+00:01:48,230 --> 00:01:52,230
+Pärast kaotamist, naastakse cmd-sse.
+
+12
+00:01:52,600 --> 00:01:54,600
+Et mängu uuesti käivitada, kirjutage "advgame.bat"
+
+13
+00:02:06,110 --> 00:02:08,110
+See on sätetemenüü.
+
+14
+00:02:08,600 --> 00:02:10,600
+Siin saate sisse lülitada teatud sätted, et muuta mängimiskogemust.
+
+15
+00:02:10,210 --> 00:02:17,210
+Surematus on peamiselt testimiseks ja võimaldab jätkata mängimist isegi pärast takistuse vastu minemist.
+
+16
+00:02:17,400 --> 00:03:37,400
+Jõudlussuvandid on huvitavad. Ma lülitan sisse kiire režiimi, et näha milline see välja näeb.
+
+17
+00:03:37,270 --> 00:03:42,270
+Nagu näete, siis mängu vilgub.
+
+18
+00:03:42,800 --> 00:03:45,800
+See on kiire režiimi puudujääk.
+
+19
+00:03:45,900 --> 00:03:54,900
+Aga näitan teile veel suvandeid.
+
+20
+00:03:54,260 --> 00:04:54,260
+Te saate välja lülitada ka tegelase animatsioonid.
+
+21
+00:04:54,240 --> 00:04:58,240
+See muudab mängu veidi kiiremaks.
+
+22
+00:05:10,100 --> 00:05:13,100
+See on teabekuva.
+
+23
+00:05:13,500 --> 00:06:00,500
+Nagu näete, ei olnud mina esialgne mänguidee looja. Ma lihtsalt programmeerisin selle.
+
+24
+00:06:00,280 --> 00:06:03,280
+Selline näeb välja mäng ainult postidega.
+
+25
+00:06:04,220 --> 00:06:10,220
+Aga järgmisena, vaatame lüliteid... käsurea lüliteid! (argumente)
+
+26
+00:06:10,240 --> 00:06:18,240
+Kui kirjutate advgame.bat /?, näete kõike mida on võimalik nendega saavutada.
+
+27
+00:06:20,290 --> 00:06:26,290
+See toimib sarnaselt tavalisele cmd käsklusele. Te saate kirjutada neid ka ilma ühegi tühikuta, täpselt nagu tavalised käsklused Windowsis.
+
+28
+00:06:26,260 --> 00:06:44,260
+Keelame näiteks menüüanimatsioonid.
+
+29
+00:06:44,200 --> 00:06:47,200
+Nagu nägite, toimis see probleemideta.
+
+30
+00:06:47,100 --> 00:06:47,100
+Aga...
+
+31
+00:06:47,260 --> 00:08:39,260
+Mis siis, kui te ei soovi menüüdes navigeerida hiirega? Käsurealülitid (argumendid) aitavad ka siin!
+
+32
+00:08:39,100 --> 00:08:42,100
+Nagu nägite, jäeti vahele suremisanimatsioon, nagu me soovisime.
+
+33
+00:08:44,170 --> 00:08:46,170
+Vaatame mõningaid lisafunktsioone.
+
+34
+00:08:49,000 --> 00:08:52,000
+kuvame kausta...
+
+35
+00:08:52,240 --> 00:08:55,240
+Nagu näete, on siin üsna mitu pakkfaili...
+
+36
+00:08:55,120 --> 00:09:00,120
+Alustame select.bat failiga
+
+37
+00:09:00,100 --> 00:09:03,100
+See pakkfail võimaldab muuta tegelast ja tekstuuripakki, mida mäng kasutab.
+
+38
+00:09:03,210 --> 00:09:09,210
+[risttrell (hashpound) on vaikevalik]
+
+39
+00:09:09,240 --> 00:10:10,240
+Vaatame, milline näeb mäng nüüd välja!
+
+40
+00:10:10,210 --> 00:10:13,210
+Vajutage f12, et kuvada lisainfo
+
+41
+00:10:20,230 --> 00:10:22,230
+Järgmisena, redigeerijad...
+
+42
+00:10:23,000 --> 00:10:27,000
+blkedit.bat võimaldab tekstuure muuta
+
+43
+00:10:31,600 --> 00:10:53,600
+Redigeerija kuvab eelvaate sellest, kuidas tekstuuripakk mängus välja näeb ja kuvab ka tegelaseanimatsiooni.
+
+44
+00:10:54,000 --> 00:11:10,000
+Heidame pilgu tegelase redigeerijale...
+
+45
+00:11:10,160 --> 00:11:15,160
+See võimaldab teil luua iseenda tegelasi ja isegi neid animeerida.
+
+46
+00:11:15,210 --> 00:11:29,210
+Selline näeb välja tegelane "bouncy"..
+
+47
+00:11:29,800 --> 00:11:31,800
+Lõpuks, on ka load_legacy.cmd
+
+48
+00:11:31,180 --> 00:11:35,180
+See käsuskript võimaldab näha mängu arendusajalugu...
+
+49
+00:11:35,210 --> 00:11:46,210
+Siit saab laadida ka mängu alpha versioone!
+
+50
+00:11:46,120 --> 00:11:53,120
+---[Tehnilised probleemid]---
+
+51
+00:11:53,220 --> 00:12:03,220
+Las ma parandan selle kohe...
+
+52
+00:12:03,220 --> 00:12:05,220
+Jep, lihtne viga for tsüklis...
+
+53
+00:12:20,110 --> 00:12:23,110
+See on versioon 0.1
+
+54
+00:12:23,600 --> 00:12:29,600
+Nagu näete, lülitub see teisele režiimile...
+
+55
+00:12:30,000 --> 00:12:34,000
+Selles versioonis, teisi suurusrežiime ei toetata.
+
+56
+00:12:34,190 --> 00:12:37,190
+Erinevalt praegusest versioonist...
+
+57
+00:12:41,120 --> 00:12:51,120
+Ja sätetemenüüd ei olnud.
+
+58
+00:12:51,250 --> 00:12:59,250
+---[Tehnilised probleemid]---
+
+59
+00:12:59,600 --> 00:13:40,600
+Ja sätetemenüüd ei olnud.
+
+60
+00:13:40,200 --> 00:13:44,200
+Ja põrketuvastus isegi ei tominud :D
+
+61
+00:13:49,300 --> 00:13:50,300
+Kui postid välja arvata :D
+
+62
+00:13:55,600 --> 00:14:01,600
+Kas selles versioonis on sätetemenüü?
+
+63
+00:14:01,300 --> 00:14:05,300
+Ei :D
+
+64
+00:14:05,800 --> 00:14:06,800
+Aga sellel on "Te kaotasite" animatsioon.
+
+65
+00:14:57,270 --> 00:15:03,270
+Endiselt puudub sätetemenüü :D
+
+66
+00:15:03,900 --> 00:15:07,900
+See tuli alles versioonis 0.4
+
+67
+00:15:43,800 --> 00:15:49,800
+Nagu näete, siis see versioon isegi üritas laadida tekstuuripakki!
+
+68
+00:15:49,900 --> 00:15:51,900
+Aga postid ei näe õiged välja.
+
+69
+00:15:59,190 --> 00:16:04,190
+Selles versioonis olid ka käsurea argumendid.
+
+70
+00:16:12,200 --> 00:16:21,200
+Samuti start_cmd.bat käivitab käsurea praeguses kaustas.
+
+71
+00:16:21,220 --> 00:16:25,220
+Üks rida koodi :D
+
+72
+00:16:28,300 --> 00:16:30,300
+Samuti sooviksin näidata ühte head funktsiooni selles mängus...
+
+73
+00:16:30,110 --> 00:16:51,110
+Muudame käsurea värve.
+
+74
+00:16:51,700 --> 00:17:19,700
+Nagu näete, toimib see kohandatud värvidega, mille seate.
+
+75
+00:17:19,210 --> 00:17:26,210
+Kuid te võite mõelda...
+
+76
+00:17:26,500 --> 00:17:30,500
+Kui menüü kasutab valget valiku jaoks, siis mis juhtub kui värviks seada f0?
+
+77
+00:17:31,190 --> 00:17:40,190
+Vaatame, mis juhtub :D
+
+78
+00:17:40,700 --> 00:18:33,700
+Nagu näete, kuvab see tumeda tausta :)
+
+79
+00:18:33,190 --> 00:19:26,190
+Kuid see pole veel kõik, te saate muuta ka akna suurust ja mäng töötab edasi !
+
+80
+00:19:26,230 --> 00:19:29,230
+Noh, teatud piirangud siiski on, kuid see üldiselt siiski toimib...
+
+81
+00:19:35,100 --> 00:19:46,100
+Aitäh, et vaatasite! Te saate selle mängu alla laadida lingi abil, mille leiate kirjeldusest :)
+
+82
+00:19:46,110 --> 00:19:53,110
+Uusim video
+
+83
+00:19:54,300 --> 00:20:00,300
+Soovitatav video
+
+84
+00:20:01,000 --> 00:20:05,000
+Tellimine
+

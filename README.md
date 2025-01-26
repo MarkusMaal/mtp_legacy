@@ -25,7 +25,9 @@ Kuid mis saab olema kanali uus identiteet? Lihtsasti öeldes, "loominguline ja t
 
 Tulles tagasi arhiveerimisküsimuse juurde, on mul kavas teha eraldi MarkusTegelane+ arhiiv kanal, kuhu postitan vaadatuimad ja märkimisväärsemad videod, kuid see ei ole kõige kõrgem prioriteet hetkel. Mul on alla laaditud kõik MarkusTegelane+ videod, seega saan ma jagada mis tahes videoid te soovite sellel kanalil. Kuid kuna tegu on "uue" kanaliga, siis on mul võimalik postitada ainult piiratud arv videoid päevas.
 
-Videote metaandmeid saate vaadata siit: 
+Kui soovite kohe ligipääsu mingi(te)le video(te)le, [võtke minuga ühendust](mailto:mina@markusmaal.ee).
+
+Kustutatud videote metaandmeid saate vaadata siit: 
 
 * [Kanali andmebaasi dump (JSON)](https://markusmaal.ee/channel_db_lite/web/video/report?ch=MarkusTegelane%2B&del=1&frmt=json)
 * [Kanali andmebaasi dump (HTML)](https://markusmaal.ee/channel_db_lite/web/video/report?ch=MarkusTegelane%2B&del=1&frmt=html)

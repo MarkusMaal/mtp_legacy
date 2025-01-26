@@ -1,0 +1,159 @@
+﻿1
+00:00:01,910 --> 00:00:06,250
+Markus Maal esitleb...
+
+2
+00:00:07,850 --> 00:00:11,820
+Mu PowerPoint OS
+
+3
+00:00:13,730 --> 00:00:21,630
+See on mu esimene avalik PowerPoint OS.
+Palun pange tähele, et see on beetaversioon,
+mistõttu mõned asjad parandatakse/muudetakse
+pärast mõningaid uuendusi. Samuti
+ei ole beetaversioon perfektne, mis tähendab, et
+esineda võib puuke.
+
+4
+00:01:01,340 --> 00:01:07,550
+See on paigaldamisekraan
+
+5
+00:01:22,030 --> 00:01:28,570
+See on failide kopeerimise ekraan. See
+näeb isegi üsna lahe välja.
+
+6
+00:01:41,810 --> 00:01:48,420
+Selles OS-is saab muuta ka taustapilti. Ma teen seda hiljem.
+
+7
+00:01:50,460 --> 00:01:56,630
+Enne esimest kasutamist on vajalik ka taaskäivitamine.
+
+8
+00:02:28,030 --> 00:02:34,800
+See on esimese kasutamise ekraan ehk siis "Kastist välja kogemus" (OOBE)
+
+9
+00:02:50,680 --> 00:02:57,190
+Kasutajakontod on ka saadaval selles OS-is. Aga see ei toeta veel mitut kasutajat. Kui te teate kuidas seda teha, palun jätke juhised kommentaaridesse.
+
+10
+00:03:19,840 --> 00:03:24,780
+See on väga levinud parool.
+
+11
+00:03:28,320 --> 00:03:34,530
+Selles OS-is on ka paroolivihjed.
+
+12
+00:03:37,030 --> 00:03:38,530
+<b>Vale parool</b>
+Parool, mille sisestasite polnud õige
+
+13
+00:03:42,330 --> 00:03:47,570
+Tervitusekraan teie kasutajanimega:
+
+14
+00:03:48,070 --> 00:03:48,810
+See on töölaud. Siit on võimalik teisi rakendusi käivitada.
+
+15
+00:03:49,640 --> 00:03:56,580
+See on meediumiesitusrakendus. Siin on mõni näidismuusika ja pildid
+
+16
+00:03:56,850 --> 00:03:57,780
+Aga mitte ühtegi videot :'-(
+
+17
+00:05:00,580 --> 00:05:07,550
+See on "Presentator" programm, millega saab teha esitlusi.
+
+18
+00:05:08,850 --> 00:05:10,850
+See versioon pole veel valmis
+
+19
+00:05:11,460 --> 00:05:21,730
+nagu näete, ma ei saa seda slaidi näidata täisekraanis :(
+
+20
+00:05:26,300 --> 00:05:33,140
+Seadete ja ätriärbuutide rakendus. See kuvab
+süsteemiinfo ja seda kasutatakse seadete konfigureerimiseks
+või isegi terve operatsiooni vaikesätete taastamiseks
+
+21
+00:05:41,650 --> 00:05:44,420
+Te saate ka tausta muuta.
+Nagu näete, kuvab see dialoogi ning võimaldab teil sirvida faile, et leida sobilik taustapilt.
+
+22
+00:05:45,020 --> 00:05:51,600
+Teiste rakenduste sätteid on ka võimalik muuta.
+
+23
+00:05:53,800 --> 00:06:00,000
+Vaiketausta taastamine on ka võimalik.
+
+24
+00:06:03,810 --> 00:06:10,550
+Meilirakendus, mis töötab väga hästi
+(ühe erandiga)
+
+25
+00:06:37,280 --> 00:06:41,080
+See on hetkel vigane :(
+
+26
+00:06:47,520 --> 00:06:54,090
+"Words" rakendust saab kasutada tekstitöötluseks. Sellel on mõned probleemid, aga see toimib enamikes olukordades.
+
+27
+00:06:56,390 --> 00:06:59,760
+See on väga edasiarenenud tekstiredaktor PowerPointis.
+
+28
+00:07:16,710 --> 00:07:23,190
+See on veebibrauser nimega "Web Browse".
+
+29
+00:07:41,370 --> 00:07:48,480
+Selle opsüsteemiga on kaasas ka mõned näidismängud (ja lingid mängusaitidele). Minecraft mängul on üks viga, aga see parandatakse tulevikus.
+
+30
+00:08:44,770 --> 00:08:51,010
+See on failibrauser, millega on võimalik failidele juurde pääseda.
+
+31
+00:09:05,820 --> 00:09:07,820
+Plaati pole sisestatud
+
+32
+00:09:16,330 --> 00:09:22,940
+See on kalkulaator. Kõik tundub ok, aga astendusfunktsioon tundub vigane olevat.
+
+33
+00:09:46,560 --> 00:09:52,900
+Need on sotsiaalvõrgustike rakendused.
+
+34
+00:10:25,500 --> 00:10:26,940
+MIKS SA MITTE TÖÖTAMA INSTAGRAM??
+
+35
+00:10:31,640 --> 00:10:38,080
+Rakenduste rakenduses on mõned otseteed säteteni.
+
+36
+00:11:01,310 --> 00:11:07,550
+See on sisselogimise ekraan. Samuti on siin kell üleval vasakus nurgas. See ei värskenda ennast automaatselt, mistõttu peate seda klõpsama, et näha õiget kellaaega.
+
+37
+00:11:35,040 --> 00:11:41,280
+Ja see oligi kõik. Loodan, et teile meeldis see 12-minutiline eelvaade minu PowerPoint OS beetaversioonist.
+
